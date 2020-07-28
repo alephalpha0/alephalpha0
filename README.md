@@ -1,9 +1,8 @@
 ###  (☞ﾟヮﾟ)☞
-### my name is Dave and these are my forays into using Git as my life's CVS.
-
-
-
-
+### Hello there, my name is Dave [alias | alephalpha0] and these repositories are my forays into using Git as my life's CVS. 
+I have tinkered and dabbled in coding since the early 2000s. My efforts had always been piecemeal; apart from hand coding the CSS and HTML of my personal domains during high school, I never succeeded in becoming "good enough" at any scripting or programming language.
+My goal and plan is to change that with a clumsy, self-taught, "three-pronged" attack plan.
+* My current operating system environs are Manjaro Linux running the ZSH shell through Terminator on (coincidentally enough) the laptop I purchased nearly 20 years ago in high school and my new Samsung Galaxy A20 with Termux running the ZSH shell as well.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,3 +12,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Ql0qllqqq%q
