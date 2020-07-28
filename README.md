@@ -1,9 +1,8 @@
-### Hi there 👋
+###  (☞ﾟヮﾟ)☞
+### my name is Dave and these are my forays into using Git as my life's CVS.
 
-<!--
-**alephalpha0/alephalpha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
