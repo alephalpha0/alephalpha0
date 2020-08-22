@@ -1,12 +1,12 @@
-#  (☞ﾟヮﾟ)☞ [rootofpi.me](https://rootofpi.me) for the moment, a ghost town.
+#  (☞ﾟヮﾟ)☞ [rootofpi.me](https://rootofpi.me) started receiving fragments of Space Cowboy's logs. 
 ### Hello there, my name is Dave `alias="alephalpha0"` and these repositories are my forays into using Git as my life's CVS. 
 I have tinkered and dabbled in coding since the early 2000s. My efforts had always been piecemeal; apart from hand coding the CSS and HTML of my personal domains during high school, I never succeeded in becoming "good enough" at any scripting or programming language.
 My goal and plan is to change that with a clumsy, self-taught, "pincher movement" attack plan.
 
-[ ] Python :snake: is the main goal.
-[ ] Bring back rootofpi and use it to get into HTML/CSS/Ruby. 
-[ ] Figure out what the hell a `stack` really is. 
-[ ] ~~Start~~ Continue getting used tonand comfortable on the command line. 
+- [ ] Python :snake: is the main goal.
+- [x] Bring back [rootofpi](https://rootofpi.me) and use it to get into HTML/CSS/Ruby. 
+- [ ] Figure out what the hell a `stack` really is. 
+- [ ] ~~Start~~ Continue getting used to and comfortable on the command line. 
 
 > My current operating system environs are Manjaro Linux running the ZSH 
 > shell through Terminator on (coincidentally enough) the laptop I 
