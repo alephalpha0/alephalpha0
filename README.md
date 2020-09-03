@@ -1,4 +1,4 @@
-[![alephalpha0's github stats](https://github-readme-stats.vercel.app/api?username=alephalpha0)](https://github.com/anuraghazra/github-readme-stats)  
+[![alephalpha0's github stats](https://github-readme-stats.vercel.app/api?username=alephalpha0&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)  
 
 # 🌌🌌✨🌌🚀👨🏼‍🚀   
   
@@ -18,7 +18,7 @@ __TODO:__
 - [x] Become a Space Cowboy.  
 - [ ] CSS / SASS. 
 - [ ] HTML. 
-- [ ] Ruby :jewel: / Liquid. 
+- [ ] Ruby :gem: / Liquid. 
 - [ ] Adulting.  
 --- 
 > My current operating system environs are Manjaro Linux running the ZSH 
