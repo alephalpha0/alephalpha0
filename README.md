@@ -1,5 +1,6 @@
 [![alephalpha0's github stats](https://github-readme-stats.vercel.app/api?username=alephalpha0&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)  
-
+[![where am i?](https://img.shields.io/badge/touchpoints%20in%20reality-0-blue)](https://shields.io)  
+ 
 # 🌌🌌✨🌌🚀👨🏼‍🚀   
   
 #### The Institute has released their initial collection of the Space Cowboy's data logs and made them available through the [rootofpi.me](https://rootofpi.me) archival system.  
